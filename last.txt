@@ -1,3 +1,7 @@
 last.txt
 add test file
+<<<<<<< HEAD
 merge featurel fast and simple
+=======
+delete dev and add featurel
+>>>>>>> featurel
